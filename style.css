@@ -1,0 +1,138 @@
+/* general styles */ 
+body{
+    background-color: #EDECEA;
+    color: #163A28;
+    font-family: elina01;
+}
+.container-fluid{
+    width: 100%;
+}
+.underline{
+    border-bottom: solid 1px;
+}
+.img-thumbnail{
+    background-color: #EDECEA; 
+    border: 0;
+}
+
+
+/* home */
+
+.img-fluid{
+    min-height: 30px !important;
+    min-width: 128px !important;
+}
+
+.headtext{
+    display: inline;
+}
+
+.headtextbackground{
+    display: inline-block;
+}
+
+.headtextbackgroundimage{
+    z-index: -9999; 
+    bottom: 0; 
+    height: 100px;
+    width: 300px;
+}
+
+
+/* founder and confirmation */
+.confirmationimage{
+    z-index: -99999; 
+    height: 150px; 
+    width: 282px;
+}
+
+
+/* eat */
+
+.dietaryimage{
+    height: 30px; 
+    width: 30px; 
+    display: inline-block;
+}
+
+
+/* eat and drink */
+
+.eat-drink{
+    font-size: 70px;
+}
+
+.eat-drinktext{
+    font-size: 17px;
+    width: 250px; 
+    color: black;
+}
+
+.dietlistunderline{
+    border-bottom: solid 1px; 
+}
+
+.topline{
+    border-top: solid 1px;
+}
+
+.dietnumber{
+    display: inline-block;
+}
+
+
+/* bookings */
+
+.buttonhover{
+    height: 50px;
+    width: 200px;
+}
+
+.buttonhover:hover{
+    cursor: pointer;
+}
+
+
+/* footer */
+
+.button2hover{
+    z-index: 99999;
+}
+
+.button2hover:hover{
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: #163A28;
+    display: block;
+}
+
+a:hover{
+    color: #163A28;
+}
+
+.link{
+    width: 80px;
+}
+
+
+/* bookings and footer button */
+
+.buttonborderline{
+    border: #163A28 solid 1px; 
+    position: absolute; 
+    z-index: -11111;
+}
+
+.btn{
+    background-color: #163A28; 
+    color: white !important; 
+    top: -7px; 
+    left: -7px;
+}
+
+.arrowcolor{
+    background-color: #163A28;
+}
