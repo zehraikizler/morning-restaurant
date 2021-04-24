@@ -18,5 +18,5 @@ Morning Restaurant is a project I made to improve myself the design by Jordan Hu
 
 ## Live Demo
 
-*[Live Demo](https://zehraikizler.github.io/sozluk.gov.tr-clone/)*
+*[Live Demo](https://zehraikizler.github.io/morning-restaurant./)*
 
